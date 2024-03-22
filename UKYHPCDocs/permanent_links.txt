@@ -1,0 +1,21 @@
+#The links for redirect 
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Acknowledging+HPC+Support
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Paths+to+use+in+your+job+scripts
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Connecting+to+UK+campus+resources+through+VPN
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Applying+for+an+HPC+account
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Conda+and+Containers+on+LCC
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Software+list+for+singularity+containers+for+conda+packages+in+the+MCC+cluster
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Open+OnDemand+OOD+Web+Portal+for+CCS
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/LCC+storage+Quotas
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/CCS+Policies
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/User+Accounts+and+Projects
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Jupyter+Notebook+on+LCC
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/LCC+system+overview
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/MCC+system+overview
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/HPC+Software+List
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/How+to+Get+Help
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Condo+Model
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Resources+Allocations
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/OURRstore
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/OpenStack+Cluster
+#  http://ukyrcd.ccs.uky.edu/confluence/CCS/Sharing+Files+with+Globus
